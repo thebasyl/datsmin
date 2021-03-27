@@ -1,0 +1,22 @@
+{
+  "name": "ebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "NoelNim",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "discordcaptcha": "^1.0.0",
+    "moment": "^2.29.0",
+    "ms": "^2.1.2",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0"
+  }
+}
